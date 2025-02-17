@@ -3,3 +3,5 @@ Lucid_chart_link :  https://lucid.app/lucidspark/5ab05da3-bb08-40d3-84d6-e687b58
 Hacker Rank Certification Drive link :https://drive.google.com/drive/folders/1FBZM8zoW-zWe7JtHgqkDuklIdtLPuD1i?usp=sharing
 
 Google_colab_link :https://colab.research.google.com/drive/1WC0hg4ntNCIRKSUUGwtb4Ji8k8hqzaM0?usp=sharing
+
+Model_Research_word : https://drive.google.com/drive/folders/1Mi_LqULs33lLWpBf-CqQzDT992AglLFq?usp=drive_link
